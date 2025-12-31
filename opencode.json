@@ -134,7 +134,7 @@
       "git branch *": "allow",
       "git cat *": "allow",
       "git checkout *": "allow",
-      "git cherry-pick *": "ask",
+      "git cherry-pick *": "allow",
       "git clean*": "allow",
       "git commit *": "allow",
       "git config *": "allow",
