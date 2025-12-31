@@ -1,0 +1,14 @@
+node_modules
+package.json
+bun.lock
+**/plans
+**/.DS_Store
+PLAN.md
+arg-test
+stdin-test
+prompt-enhancer-helper
+**/prompt-enhancer-semaphore
+plans/*
+logs/*
+antigravity-accounts.json
+.audio-lock
