@@ -65,46 +65,46 @@
     "messages_copy": "alt+y",
     "session_fork": "ctrl+alt+f",
 
-    // "session_continue": "alt+c",
-
-    // "/carry-on": "alt+shift+c",
+    "/carry-on": "alt+shift+c",
     
-    // "/midsentence": "ctrl+alt+x",
+    "/midsentence": "ctrl+alt+x",
     
-    // "/integrate-branches--proxy-opus": "ctrl+alt+q",
-    // // "/integrate-branches--gh-opus": "ctrl+alt+shift+q",
+    "/integrate-branches--proxy-opus": "ctrl+alt+q",
+    // "/integrate-branches--gh-opus": "ctrl+alt+shift+q",
     
-    // "/proceed-with-the-plan": "ctrl+alt+y",
+    "/proceed-with-the-plan": "ctrl+alt+y",
     
-    // "/hard-sync-dev--pickle": "ctrl+alt+d",
+    "/hard-sync-dev--pickle": "ctrl+alt+d",
 
-    // "/update-dev--glm-4.6": "ctrl+alt+u",
-    // // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
-    // "/update-dev--pickle": "ctrl+alt+shift+u",
+    "/update-dev--glm-4.6": "ctrl+alt+u",
+    // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
+    "/update-dev--pickle": "ctrl+alt+shift+u",
     
-    // "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+h",
-    // "/hard-sync-all-remotes--glm-4.7": "alt+shift+h",
-    // "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
+    "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+h",
+    "/hard-sync-all-remotes--glm-4.7": "alt+shift+h",
+    "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
 
-    // "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+i",
-    // "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+shift+i",
+    "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+i",
+    "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+shift+i",
 
-    // "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt+m",
-    // "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
-    // "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
 
-    // "/commit-and-push--glm-4.6": "ctrl+alt+c",
-    // "/commit-and-push--glm-4.7": "alt+shift+c",
-    // "/commit-and-push--pickle": "ctrl+alt+shift+c",
+    "/commit-and-push--glm-4.6": "ctrl+alt+c",
+    "/commit-and-push--glm-4.7": "alt+shift+c",
+    "/commit-and-push--pickle": "ctrl+alt+shift+c",
 
-    // "/todo-reminder": "ctrl+alt+t",
-    // "/version-reminder": "ctrl+alt+v",
+    "/todo-reminder": "ctrl+alt+t",
+    "/version-reminder": "ctrl+alt+v",
 
-    // "/pre-existing--glm-4.6": "ctrl+alt+p",
-    // "/pre-existing--pickle": "ctrl+alt+shift+p",
-    
-    // "fake_command": "ctrl+f",
-    // "another_fake_command": "ctrl+g",
+    "/pre-existing--glm-4.6": "ctrl+alt+p",
+    "/pre-existing--pickle": "ctrl+alt+shift+p",
+
+    "session_continue": "alt+c",
+
+    "fake_command": "ctrl+f",
+    "another_fake_command": "ctrl+g",
   },
   "permission": {
     "doom_loop": "deny",
