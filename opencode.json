@@ -83,7 +83,7 @@
     "/update-dev--pickle": "ctrl+alt+shift+u",
     
     "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+h",
-    "/hard-sync-all-remotes--glm-4.7": "alt+shif+h",
+    "/hard-sync-all-remotes--glm-4.7": "alt+shift+h",
     "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
 
     "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+i",
