@@ -82,16 +82,19 @@
     // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
     "/update-dev--pickle": "ctrl+alt+shift+u",
     
-    "/hard-sync-all-remotes--glm-4.6": "ctrl+alt++h",
+    "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+h",
+    "/hard-sync-all-remotes--glm-4.7": "alt+shif+h",
     "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
 
     "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+shift+i",
 
-    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt++m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+n",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
 
     "/commit-and-push--glm-4.6": "ctrl+alt+c",
+    "/commit-and-push--glm-4.7": "alt+shift+c",
     "/commit-and-push--pickle": "ctrl+alt+shift+c",
 
     "/todo-reminder": "ctrl+alt+t",
