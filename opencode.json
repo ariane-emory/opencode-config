@@ -77,7 +77,7 @@
     "/hard-sync-dev--pickle": "ctrl+alt+d",
 
     "/update-dev--glm-4.6": "ctrl+alt+u",
-    // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
+    "/update-dev--glm-4.7": "alt+shift+u",
     "/update-dev--pickle": "ctrl+alt+shift+u",
     
     "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+h",
