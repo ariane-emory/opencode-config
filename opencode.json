@@ -10,10 +10,10 @@
   "autoupdate": false,
   "lsp": false,
   "plugin": [
-    // "./plugin/copilot-force-agent-header",
-    // "@howaboua/pickle-thinker",
-    // "@franlol/opencode-md-table-formatter",
-    // "@tarquinen/opencode-dcp",
+    "./plugin/copilot-force-agent-header",
+    "@howaboua/pickle-thinker",
+    "@franlol/opencode-md-table-formatter",
+    "@tarquinen/opencode-dcp",
     // "@ariane-emory/opencode-antigravity-auth@1.2.1-c-fix-account-duplication",
   ],
   "agent": {
