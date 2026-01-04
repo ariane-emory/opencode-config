@@ -55,7 +55,7 @@
     "model_cycle_favorite_reverse": "ctrl+j",
     "tool_details": "ctrl+t",
     "messages_last_user": "alt+l",
-    "sidebaur_toggle": "ctrl+b",
+    "sidebar_toggle": "ctrl+b",
     "session_timeline": "ctrl+g",
     "session_list": "ctrl+s",
     "model_list": "alt+m",
