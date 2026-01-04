@@ -11,9 +11,9 @@
   "lsp": false,
   "plugin": [
     // "./plugin/copilot-force-agent-header",
-    "@howaboua/pickle-thinker",
-    "@franlol/opencode-md-table-formatter",
-    "@tarquinen/opencode-dcp",
+    // "@howaboua/pickle-thinker",
+    // "@franlol/opencode-md-table-formatter",
+    // "@tarquinen/opencode-dcp",
     // "@ariane-emory/opencode-antigravity-auth@1.2.1-c-fix-account-duplication",
   ],
   "agent": {
@@ -375,36 +375,36 @@
         },
       }
     },
-    "cli-proxy-api-google": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "CLIproxyAPI (Google)",
-      "options": {
-        "baseURL": "http://localhost:8317/v1",
-      },
-      "models": {
-        "gemini-2.5-flash": {
-          "name": "Gemini 2.5 Flash",
-        },
-        "gemini-2.5-pro": {
-          "name": "Gemini 2.5 Pro",
-        },
-      },
-    },
-    "cli-proxy-api": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "CLIproxyAPI",
-      "options": {
-        "baseURL": "http://localhost:8317/v1",
-      },
-      "models": {
-        "qwen3-coder-flash": {
-          "name": "Qwen3 Coder Flash",
-        },
-        "qwen3-coder-plus": {
-          "name": "Qwen3 Coder Plus",
-        },
-      },
-    },
+    // "cli-proxy-api-google": {
+    //   "npm": "@ai-sdk/openai-compatible",
+    //   "name": "CLIproxyAPI (Google)",
+    //   "options": {
+    //     "baseURL": "http://localhost:8317/v1",
+    //   },
+    //   "models": {
+    //     "gemini-2.5-flash": {
+    //       "name": "Gemini 2.5 Flash",
+    //     },
+    //     "gemini-2.5-pro": {
+    //       "name": "Gemini 2.5 Pro",
+    //     },
+    //   },
+    // },
+    // "cli-proxy-api": {
+    //   "npm": "@ai-sdk/openai-compatible",
+    //   "name": "CLIproxyAPI",
+    //   "options": {
+    //     "baseURL": "http://localhost:8317/v1",
+    //   },
+    //   "models": {
+    //     "qwen3-coder-flash": {
+    //       "name": "Qwen3 Coder Flash",
+    //     },
+    //     "qwen3-coder-plus": {
+    //       "name": "Qwen3 Coder Plus",
+    //     },
+    //   },
+    // },
     "github-copilot": {
       "blacklist": [
         "claude-3.5-sonnet",
@@ -436,39 +436,39 @@
         }
       }
     },
-    "anthropic": {
-      "blacklist": [
-        "claude-3-5-haiku-20241022",
-        "claude-3-5-haiku-latest",
-        "claude-3-5-sonnet-20240620",
-        "claude-3-5-sonnet-20241022",
-        "claude-3-7-sonnet-20250219",
-        "claude-3-7-sonnet-latest",
-        "claude-3-haiku-20240307",
-        "claude-3-opus-20240229",
-        "claude-3-sonnet-20240229",
-        "claude-opus-4-0",
-        "claude-opus-4-1",
-        "claude-opus-4-1-20250805",
-        "claude-opus-4-20250514",
-        "claude-sonnet-4-0",
-        "claude-sonnet-4-20250514",
-      ],
-      "models": {
-        "claude-opus-4.5": {
-          "reasoning": true,
-          "options": {
-            "reasoningEffort": "high"
-          }
-        },
-        "claude-sonnet-4.5": {
-          "reasoning": true,
-          "options": {
-            "reasoningEffort": "high"
-          }
-        }
-      }
-    },
+    // "anthropic": {
+    //   "blacklist": [
+    //     "claude-3-5-haiku-20241022",
+    //     "claude-3-5-haiku-latest",
+    //     "claude-3-5-sonnet-20240620",
+    //     "claude-3-5-sonnet-20241022",
+    //     "claude-3-7-sonnet-20250219",
+    //     "claude-3-7-sonnet-latest",
+    //     "claude-3-haiku-20240307",
+    //     "claude-3-opus-20240229",
+    //     "claude-3-sonnet-20240229",
+    //     "claude-opus-4-0",
+    //     "claude-opus-4-1",
+    //     "claude-opus-4-1-20250805",
+    //     "claude-opus-4-20250514",
+    //     "claude-sonnet-4-0",
+    //     "claude-sonnet-4-20250514",
+    //   ],
+    //   "models": {
+    //     "claude-opus-4.5": {
+    //       "reasoning": true,
+    //       "options": {
+    //         "reasoningEffort": "high"
+    //       }
+    //     },
+    //     "claude-sonnet-4.5": {
+    //       "reasoning": true,
+    //       "options": {
+    //         "reasoningEffort": "high"
+    //       }
+    //     }
+    //   }
+    // },
     "openrouter": {
       "blacklist": [
         "thudm/glm-z1-32b:free",
