@@ -1,7 +1,7 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "disabled_providers":[ "github-copilot-enterprise", "github-models"],
-  "model": "llm-proxy/claude-opus-4-5-thinking",
+  "model": "zai-coding-plan/glm-4.6", // "llm-proxy/claude-opus-4-5-thinking",
   "small_model": "zai-coding-plan/glm-4.6",
   "snapshot": false,
   "formatter": false,
