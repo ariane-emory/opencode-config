@@ -44,8 +44,8 @@
     "leader": "f12",
     "command_list": "alt+x",
 
-    "history_next": "ctrl+n",
-    "history_previous": "ctrl+p",
+    "history_next": "alt+n",
+    "history_previous": "alt+p",
     "session_child_cycle": "ctrl+right",
     "session_child_cycle_reverse": "ctrl+left",
 
@@ -101,9 +101,11 @@
     "/pre-existing--glm-4.6": "ctrl+alt+p",
     "/pre-existing--pickle": "ctrl+alt+shift+p",
 
+    "/haha": "ctrl+alt+j",
+    
     "session_continue": "alt+c",
 
-    "fake_command": "ctrl+f",
+    "/fake_command": "ctrl+f",
     "another_fake_command": "ctrl+g",
   },
   "permission": {
