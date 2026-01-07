@@ -54,7 +54,7 @@
     "model_cycle_favorite": "ctrl+k",
     "model_cycle_favorite_reverse": "ctrl+j",
     "tool_details": "ctrl+t",
-    "messages_las_user": "alt+l",
+    "messages_last_user": "alt+l",
     "sidebar_toggle": "ctrl+b",
     "session_timeline": "ctrl+g",
     "session_list": "ctrl+s",
@@ -116,6 +116,8 @@
     // "write": { "*.md": "allow", "*.txt": "ask", "*": "deny" },
     "webfetch": "allow",
     "bash": {
+      // "*": "ask",
+      "*": "allow",
       "awk *": "allow",
       "bash *": "allow", // maybe not a great idea?
       "brew *": "ask",
@@ -201,7 +203,6 @@
       "which *": "allow",
       "wc *": "allow",
       "xargs *": "allow",
-      "*": "ask",
     },
   },
   "provider": {
