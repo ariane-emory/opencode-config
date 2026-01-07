@@ -90,6 +90,7 @@
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
 
     "/commit-and-push--glm-4.6": "ctrl+alt+c",
     "/commit-and-push--glm-4.7": "alt+shift+c",
