@@ -106,6 +106,8 @@
     "/pre-existing--glm-4.6": "ctrl+alt+p",
     "/pre-existing--pickle": "ctrl+alt+shift+p",
 
+    "/fix-unwanted": "ctrl+alt+w",
+    
     "/haha": "ctrl+alt+j",
   },
   "permission": {
@@ -117,6 +119,7 @@
     "bash": {
       // "*": "ask",
       "*": "allow",
+      "git stash*": "deny",
       // "awk *": "allow",
       // "bash *": "allow", // maybe not a great idea?
       // "brew *": "ask",
