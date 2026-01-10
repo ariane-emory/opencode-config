@@ -65,8 +65,8 @@
     "messages_copy": "alt+y",
     "session_fork": "ctrl+alt+f",
 
-    "session_continue": "alt+c",
-    "another_fake_command": "ctrl+g",
+    // "session_continue": "alt+c",
+    // "another_fake_command": "ctrl+g",
 
     "/fake_command": "ctrl+f",
     "/carry-on": "alt+shift+c",
@@ -74,6 +74,7 @@
     "/midsentence": "ctrl+alt+x",
     
     "/integrate-branches--proxy-opus": "ctrl+alt+q",
+    "/integrate-branches--pickle": "alt+shift+q",
     "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
     
     "/proceed-with-the-plan": "ctrl+alt+y",
