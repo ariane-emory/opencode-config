@@ -92,10 +92,10 @@
     "/integrate-branches--pickle": "alt+shift+q",
     "/integrate-branches--proxy-opus": "ctrl+alt+q",
 
-    "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
 
     "/midsentence": "ctrl+alt+x",
 
