@@ -62,7 +62,7 @@
     "session_new": "alt+n",
     "session_rename": "ctrl+r",
     "username_toggle": "alt+u",
-    "messages_copy": "alt+y",
+    "messages_copy": "ctrl+w",
     "session_fork": "ctrl+alt+f",
 
     // "session_continue": "alt+c",
@@ -108,7 +108,7 @@
     "/pre-existing--pickle": "ctrl+alt+shift+p",
 
     "/fix-unwanted": "ctrl+alt+w",
-    
+    "/arg-test": "ctrl+alt+z",
     "/haha": "ctrl+alt+j",
   },
   "permission": {
