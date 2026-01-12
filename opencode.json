@@ -65,8 +65,8 @@
     "messages_copy": "ctrl+w",
     "session_fork": "ctrl+alt+f",
 
-    // "session_continue": "alt+c",
     // "another_fake_command": "ctrl+g",
+    "session_continue": "alt+c",
 
     "/fake_command": "ctrl+f",
 
