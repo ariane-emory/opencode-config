@@ -66,6 +66,7 @@
     "session_fork": "ctrl+alt+f",
 
     // "another_fake_command": "ctrl+g",
+
     "session_continue": "alt+c",
 
     "/fake_command": "ctrl+f",
