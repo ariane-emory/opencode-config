@@ -13,7 +13,7 @@
     // "./plugin/copilot-force-agent-header",
     "@howaboua/pickle-thinker@0.4.0",
     "@franlol/opencode-md-table-formatter@0.0.3",
-    // "@tarquinen/opencode-dcp@1.1.2",
+    "@tarquinen/opencode-dcp@beta",
     // "@ariane-emory/opencode-antigravity-auth@1.2.1-c-fix-account-duplication",
   ],
   "agent": {
@@ -72,6 +72,7 @@
 
     "/fake_command": "ctrl+f",
 
+    "/doom-loop": "ctrl+alt+l",
     "/arg-test": "ctrl+alt+z",
     "/carry-on": "alt+shift+c",
 
