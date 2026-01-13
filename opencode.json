@@ -49,7 +49,7 @@
     "history_previous": "alt+p,ctrl+p",
     "session_child_cycle": "ctrl+right",
     "session_child_cycle_reverse": "ctrl+left",
-
+    "session_parent": "ctrl+up",
     "model_cycle_recent": "alt+k",
     "model_cycle_recent_reverse": "alt+j",
     "model_cycle_favorite": "ctrl+k",
