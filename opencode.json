@@ -39,7 +39,6 @@
     "diff_style": "stacked",
     "recent_models_count": 10,
     "display_message_tps": true,
-    "tips": false,
   },
   "keybinds": {
     "leader": "f12",
