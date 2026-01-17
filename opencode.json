@@ -13,9 +13,9 @@
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
-    "@howaboua/pickle-thinker@0.4.0",
-    "@franlol/opencode-md-table-formatter@0.0.3",
-    "@tarquinen/opencode-dcp@beta",
+    // "@howaboua/pickle-thinker@0.4.0",
+    // "@franlol/opencode-md-table-formatter@0.0.3",
+    // "@tarquinen/opencode-dcp@beta",
   ],
   "agent": {
     "explore": {
