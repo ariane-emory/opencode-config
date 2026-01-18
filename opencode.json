@@ -69,6 +69,7 @@
 
     // BaseOne-only keybindings:
     "another_fake_command": "ctrl+g",
+    "app_restart": "ctrl+alt+r",
 
     "session_continue": "alt+c",
 
@@ -625,7 +626,7 @@
     }
   },
   "mcp": {
-    "github-mcp": {
+    "github": {
       "enabled": false,
       "type": "remote",
       "url": "https://api.githubcopilot.com/mcp/",
@@ -633,7 +634,7 @@
         "Authorization": "Bearer {env:GITHUB_TOKEN}",
       },
     },
-    "zai-vision-mcp": {
+    "zai-vision": {
       "enabled": false,
       "type": "local",
       "command": ["npx", "-y", "@z_ai/mcp-server"],
@@ -642,7 +643,7 @@
         "Z_AI_MODE": "ZAI",
       },
     },
-    "zai-web-reader-mcp": {
+    "zai-web-reader": {
       "enabled": false,
       "type": "remote",
       "url": "https://api.z.ai/api/mcp/web_reader/mcp",
@@ -650,7 +651,7 @@
         "Authorization": "Bearer $ZAI_API_KEY",
       },
     },
-    "zai-web-search-prime-mcp": {
+    "zai-web-search-prime": {
       "enabled": false,
       "type": "remote",
       "url": "https://api.z.ai/api/mcp/web_search_prime/mcp",
@@ -658,17 +659,17 @@
         "Authorization": "Bearer $ZAI_API_KEY",
       },
     },
-    "godot-mcp": {
+    "godot": {
       "enabled": false,
       "type": "local",
       "command": ["npx", "godot-mcp"],
     },
-    "gopls-mcp": {
+    "gopls": {
       "enabled": false,
       "type": "local",
       "command": ["/Volumes/K/Code/go/bin/gopls", "mcp"],
     },
-    "gh-grep-mcp": {
+    "gh-grep": {
       "enabled": false,
       "type": "local",
       "command": ["uvx", "grep-mcp"],
@@ -678,7 +679,7 @@
       "type": "remote",
       "url": "https://mcp.deepwiki.com/sse",
     },
-    "context7-mcp": {
+    "context7": {
       "enabled": false,
       "type": "local",
       "command": [
@@ -689,7 +690,7 @@
         "$CONTEXT7_API_KEY",
       ],
     },
-    "mcp-search-server": {
+    "search-server": {
       "enabled": false,
       "type": "local",
       "command": ["mcp-search-server"],
@@ -723,7 +724,7 @@
         "@modelcontextprotocol/server-sequential-thinking",
       ],
     },
-    "mcp-structured-memory": {
+    "structured-memory": {
       "enabled": false,
       "type": "local",
       "command": ["npx", "-y", "@nmeierpolys/mcp-structured-memory"],
@@ -733,7 +734,7 @@
       "type": "local",
       "command": ["npx", "-y", "@waldzellai/clear-thought"],
     },
-    "calculator-mcp": {
+    "calculator": {
       "enabled": false,
       "type": "local",
       "command": ["npx", "-y", "@wrtnlabs/calculator-mcp@latest"],
