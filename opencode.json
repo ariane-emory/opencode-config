@@ -46,8 +46,8 @@
     "leader": "f12",
     "command_list": "alt+x",
 
-    "history_next": "alt+n,ctrl+n",
-    "history_previous": "alt+p,ctrl+p",
+    "history_next": "ctrl+n",
+    "history_previous": "ctrl+p",
     "session_child_cycle": "ctrl+right",
     "session_child_cycle_reverse": "ctrl+left",
     "session_parent": "ctrl+up",
@@ -67,7 +67,7 @@
     "messages_copy": "ctrl+w",
     "session_fork": "ctrl+alt+f",
 
-    // // BaseOne-only keybindings:
+    // BaseOne-only keybindings:
     // "another_fake_command": "ctrl+g",
     // "app_restart": "ctrl+alt+r",
 
@@ -75,6 +75,7 @@
 
     // "/fake_command": "ctrl+f",
 
+    // "/updated-remotely": "ctrl+alt+r",
     // "/doom-loop": "ctrl+alt+l",
     // "/arg-test": "ctrl+alt+z",
     // "/carry-on": "alt+shift+c",
