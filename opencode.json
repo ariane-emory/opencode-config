@@ -10,7 +10,7 @@
   "username": "Ariane Emory",
   "theme": "my-aura",
   "plugin": [
-    "./plugin/replacer",
+    "./plugin/MUST-have-plugin",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
