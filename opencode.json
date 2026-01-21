@@ -11,6 +11,7 @@
   "theme": "my-aura",
   "plugin": [
     "./plugin/MUST-have-plugin",
+    "@howaboua/opencode-usage-plugin@latest",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
