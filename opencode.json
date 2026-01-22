@@ -22,11 +22,11 @@
   "agent": {
     "explore": {
       "model": "zai-coding-plan/glm-4.6",
-      "disable": false
+      "disable": false,
     },
     "general": {
       "model": "zai-coding-plan/glm-4.6",
-      "disable": false
+      "disable": true,
     },
   },
   "experimental": {
