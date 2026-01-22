@@ -3,7 +3,7 @@
   "disabled_providers":[ "github-copilot-enterprise", "github-models"],
   "model": "zai-coding-plan/glm-4.7", // "llm-proxy/claude-opus-4-5-thinking",
   "small_model": "zai-coding-plan/glm-4.7",
-  "snapshot": false,
+  "snapshot": true,
   "formatter": false,
   "autoupdate": false,
   "lsp": false,
@@ -11,7 +11,7 @@
   "theme": "my-aura",
   "plugin": [
     "./plugin/MUST-have-plugin",
-    "@howaboua/opencode-usage-plugin@latest",
+    // "@howaboua/opencode-usage-plugin@latest",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
@@ -22,11 +22,11 @@
   "agent": {
     "explore": {
       "model": "zai-coding-plan/glm-4.6",
-      "disable": true
+      "disable": false
     },
     "general": {
       "model": "zai-coding-plan/glm-4.6",
-      "disable": true
+      "disable": false
     },
   },
   "experimental": {
