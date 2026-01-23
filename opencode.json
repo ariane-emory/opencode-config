@@ -10,14 +10,14 @@
   "username": "Ariane Emory",
   "theme": "my-aura",
   "plugin": [
-    // "./plugin/MUST-have-plugin",
-    // "@howaboua/opencode-usage-plugin@latest",
+    "./plugin/MUST-have-plugin",
+    "@howaboua/pickle-thinker@0.4.0",
+    "@howaboua/opencode-usage-plugin@latest",
+    "@tarquinen/opencode-dcp@beta",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
-    // "@howaboua/pickle-thinker@0.4.0",
     // "@franlol/opencode-md-table-formatter@0.0.3",
-    // "@tarquinen/opencode-dcp@beta",
   ],
   "agent": {
     "explore": {
