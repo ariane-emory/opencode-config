@@ -30,7 +30,7 @@
     },
   },
   "experimental": {
-    "context_compaction_threshold": 75,
+    "context_compaction_threshold": 50,
     "disable_paste_summary": true,
     "skip_models_refresh": true,
     "cache_command_markdown_files": false,
