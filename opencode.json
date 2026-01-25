@@ -88,10 +88,12 @@
 
     // "/fix-unwanted": "ctrl+alt+w",
     // "/haha": "ctrl+alt+j",
+
     // "/hard-sync-all-remotes--pickle": "ctrl+alt+h",
     // "/hard-sync-all-remotes--glm-4.6": "ctrl+alt+shift+h",
     // "/hard-sync-all-remotes--glm-4.7": "alt+shift+h",
     // "/hard-sync-dev--pickle": "ctrl+alt+d",
+
     // "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+i",
     // "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+shift+i",
     // "/integrate-branches--proxy-opus": "ctrl+alt+q",
