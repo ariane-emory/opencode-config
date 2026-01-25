@@ -97,8 +97,8 @@
     "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+shift+i",
     "/integrate-branches--proxy-opus": "ctrl+alt+q",
-    "/integrate-branches--pickle": "alt+shift+q",
     "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
+    "/integrate-branches--pickle": "alt+shift+q",
 
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
