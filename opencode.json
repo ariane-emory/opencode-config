@@ -22,7 +22,7 @@
   "agent": {
     "explore": {
       "model": "zai-coding-plan/glm-4.7",
-      "disable": false,
+      "disable": true,
     },
     "general": {
       "model": "zai-coding-plan/glm-4.7",
