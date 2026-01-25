@@ -627,6 +627,11 @@
     }
   },
   "mcp": {
+    "exa": {
+      "type": "remote",
+      "url": "https://mcp.exa.ai/mcp",
+      "enabled": true
+    },
     "github": {
       "enabled": false,
       "type": "remote",
