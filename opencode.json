@@ -39,7 +39,7 @@
     "sidebar_overlay": false,
     "messages_limit": 10000,
     "session_list_limit": 250,
-    //"diff_style": "stacked",
+    "diff_style": "stacked", // obsolete
     "recent_models_count": 10,
     "display_message_tps": true,
     "no_sidebar_auto": true,
