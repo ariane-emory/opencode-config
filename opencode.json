@@ -84,9 +84,9 @@
     "/arg-test": "ctrl+alt+z",
     "/carry-on": "alt+shift+c",
 
-    "/commit-and-push--pickle": "ctrl+alt+p",
-    "/commit-and-push--glm-4.7": "ctrl+alt+shift+p",
-    "/commit-and-push--glm-4.6": "alt+shift+p",
+    "/commit-and-push--glm-4.7": "ctrl+alt+p",
+    "/commit-and-push--glm-4.6": "ctrl+alt+shift+p",
+    "/commit-and-push--pickle": "alt+shift+p",
 
     "/fix-unwanted": "ctrl+alt+w",
     "/haha": "ctrl+alt+j",
