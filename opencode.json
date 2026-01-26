@@ -106,19 +106,15 @@
     // "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
     // "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "alt+shift+m",
     // "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
-
     // "/midsentence": "ctrl+alt+x",
     // "/proceed-with-the-plan": "ctrl+alt+y",
     // "/todo-reminder": "ctrl+alt+t",
-
     // "/update-dev--pickle": "ctrl+alt+u",
     // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
     // "/update-dev--glm-4.6": "alt+shift+u",
-
     // "/updated-remotely": "ctrl+alt+shift+u",
     // "/updated-remotely--glm-4.7": "ctrl+alt+u",
     // "/updated-remotely--glm-4.6": "alt+shift+u",
-
     // "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
