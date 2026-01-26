@@ -10,10 +10,10 @@
   "username": "Ariane Emory",
   "theme": "my-matrix",
   "plugin": [
-    // "./plugin/MUST-have-plugin",
-    // "@howaboua/pickle-thinker@0.4.0",
-    // "@howaboua/opencode-usage-plugin@latest",
-    // "@tarquinen/opencode-dcp@beta",
+    "./plugin/MUST-have-plugin",
+    "@howaboua/pickle-thinker@0.4.0",
+    "@howaboua/opencode-usage-plugin@latest",
+    "@tarquinen/opencode-dcp@beta",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
@@ -97,6 +97,7 @@
 
     "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+shift+i",
+
     "/integrate-branches--proxy-opus": "ctrl+alt+q",
     "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
     "/integrate-branches--pickle": "alt+shift+q",
