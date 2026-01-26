@@ -115,6 +115,10 @@
     // "/update-dev--glm-4.7": "ctrl+alt+shift+u",
     // "/update-dev--glm-4.6": "alt+shift+u",
 
+    // "/updated-remotely": "ctrl+alt+shift+u",
+    // "/updated-remotely--glm-4.7": "ctrl+alt+u",
+    // "/updated-remotely--glm-4.6": "alt+shift+u",
+
     // "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
