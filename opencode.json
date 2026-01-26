@@ -3,7 +3,7 @@
   "disabled_providers":[ "github-copilot-enterprise", "github-models"],
   "model": "zai-coding-plan/glm-4.7", // "llm-proxy/claude-opus-4-5-thinking",
   "small_model": "zai-coding-plan/glm-4.7",
-  "snapshot": false,
+  "snapshot": 1,
   "formatter": false,
   "autoupdate": false,
   "lsp": false,
@@ -37,7 +37,7 @@
   },
   "tui": {
     "sidebar_overlay": false,
-    "messages_limit": 1000,
+    "messages_limit": 10000,
     "session_list_limit": 250,
     "diff_style": "stacked",
     "recent_models_count": 10,
