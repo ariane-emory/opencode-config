@@ -595,6 +595,22 @@
             "reasoningEffort": "low"
           }
         },
+        "cli_gemini-3-flash": {
+          "id": "gemini_cli/gemini-3-flash-preview",
+          "name": "CLI Gemini 3 Flash",
+          "limit": {
+            "context": 1048576,
+            "output": 64000
+          },
+          "reasoning": true,
+          "options": {
+            "reasoningEffort": "high"
+          },
+          "modalities": {
+            "input": ["image", "text"],
+            "output": ["text"]
+          }
+        },
         "cli_gemini-3-pro-high": {
           "id": "gemini_cli/gemini-3-pro-preview",
           "name": "CLI Gemini 3 Pro High",
