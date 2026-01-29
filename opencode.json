@@ -51,7 +51,7 @@
     "history_next": "ctrl+n",
     "history_previous": "ctrl+p",
     "messages_copy": "ctrl+w",
-    "messages_last_user": "alt+l",
+    "messages_last_user": "ctrl+alt+l",
     "messages_next": "alt+down",
     "messages_previous": "alt+up",
     "model_cycle_favorite": "ctrl+k",
@@ -72,7 +72,7 @@
     "tool_details": "ctrl+t",
     "username_toggle": "alt+u",
 
-    BaseOne-only keybindings:
+    // BaseOne-only keybindings:
     "session_continue": "alt+c",
 
     "/fake_command": "ctrl+f",
