@@ -561,7 +561,7 @@
         // },
         "ant_gemini-3-flash": {
           "id": "antigravity/gemini-3-flash",
-          "name": "ANT Gemini 3 Flash",
+          "name": "AGY Gemini 3 Flash",
           "limit": {
             "context": 1048576,
             "output": 64000
@@ -573,7 +573,7 @@
         },
         "ant_gemini-3-pro-high": {
           "id": "antigravity/gemini-3-pro-preview",
-          "name": "ANT Gemini 3 Pro High",
+          "name": "AGY Gemini 3 Pro High",
           "limit": {
             "context": 1048576,
             "output": 64000
@@ -585,7 +585,7 @@
         },
         "ant_gemini-3-pro-low": {
           "id": "antigravity/gemini-3-pro-preview",
-          "name": "ANT Gemini 3 Pro Low",
+          "name": "AGY Gemini 3 Pro Low",
           "limit": {
             "context": 1048576,
             "output": 64000
@@ -595,30 +595,30 @@
             "reasoningEffort": "low"
           }
         },
-        // "cli_gemini-3-pro-high": {
-        //   "id": "gemini_cli/gemini-3-pro-preview",
-        //   "name": "CLI Gemini 3 Pro High",
-        //   "limit": {
-        //     "context": 1048576,
-        //     "output": 64000
-        //   },
-        //   "reasoning": true,
-        //   "options": {
-        //     "reasoningEffort": "high"
-        //   }
-        // },
-        // "cli_gemini-3-pro-low": {
-        //   "id": "gemini_cli/gemini-3-pro-preview",
-        //   "name": "CLI Gemini 3 Pro Low",
-        //   "limit": {
-        //     "context": 1048576,
-        //     "output": 64000
-        //   },
-        //   "reasoning": true,
-        //   "options": {
-        //     "reasoningEffort": "low"
-        //   }
-        // },
+        "cli_gemini-3-pro-high": {
+          "id": "gemini_cli/gemini-3-pro-preview",
+          "name": "CLI Gemini 3 Pro High",
+          "limit": {
+            "context": 1048576,
+            "output": 64000
+          },
+          "reasoning": true,
+          "options": {
+            "reasoningEffort": "high"
+          }
+        },
+        "cli_gemini-3-pro-low": {
+          "id": "gemini_cli/gemini-3-pro-preview",
+          "name": "CLI Gemini 3 Pro Low",
+          "limit": {
+            "context": 1048576,
+            "output": 64000
+          },
+          "reasoning": true,
+          "options": {
+            "reasoningEffort": "low"
+          }
+        },
       }
     }
   },
