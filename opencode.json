@@ -91,19 +91,19 @@
     "/fix-unwanted": "ctrl+alt+w",
     "/haha": "ctrl+alt+j",
 
-    "/hard-sync-all-remotes--pickle": "ctrl+alt+h",
-    "/hard-sync-all-remotes--glm-4.7": "ctrl+alt+shift+h",
+    "/hard-sync-all-remotes--glm-4.7": "ctrl+alt+h",
+    "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--glm-4.6": "alt+shift+h",
     "/hard-sync-dev--pickle": "ctrl+alt+d",
 
     "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--glm-4.6": "ctrl+alt+shift+i",
 
-    "/integrate-branches--proxy-opus": "ctrl+alt+q",
-    "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
+    "/integrate-branches--glm-4.7": "ctrl+alt+q",
+    "/integrate-branches--proxy-opus": "ctrl+alt+shift+q",
     "/integrate-branches--pickle": "alt+shift+q",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.6": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
 
@@ -111,12 +111,12 @@
     "/proceed-with-the-plan": "ctrl+alt+y",
     "/todo-reminder": "ctrl+alt+t",
 
-    "/update-dev--pickle": "ctrl+alt+u",
-    "/update-dev--glm-4.7": "ctrl+alt+shift+u",
+    "/update-dev--glm-4.7": "ctrl+alt+u",
+    "/update-dev--pickle": "ctrl+alt+shift+u",
     "/update-dev--glm-4.6": "alt+shift+u",
 
-    "/updated-remotely": "ctrl+alt+shift+r",
     "/updated-remotely--glm-4.7": "ctrl+alt+r",
+    "/updated-remotely": "ctrl+alt+shift+r",
     "/updated-remotely--glm-4.6": "alt+shift+r",
     "/version-reminder": "ctrl+alt+v",
   },
