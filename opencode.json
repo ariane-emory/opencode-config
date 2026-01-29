@@ -8,7 +8,7 @@
   "autoupdate": false,
   "lsp": false,
   "username": "Ariane Emory",
-  "theme": "my-aura",
+  "theme": "my-matrix",
   "plugin": [
     "./plugin/MUST-have-plugin",
     // "@howaboua/pickle-thinker@0.4.0",
@@ -22,11 +22,11 @@
   "agent": {
     "explore": {
       "model": "zai-coding-plan/glm-4.7",
-      "disable": true,
+      "disable": false,
     },
     "general": {
       "model": "zai-coding-plan/glm-4.7",
-      "disable": true,
+      "disable": false,
     },
   },
   "experimental": {
@@ -72,7 +72,7 @@
     "tool_details": "ctrl+t",
     "username_toggle": "alt+u",
 
-    BaseOne-only keybindings:
+    // BaseOne-only keybindings:
     "session_continue": "alt+c",
 
     "/fake_command": "ctrl+f",
