@@ -90,7 +90,8 @@
 
     "/hard-sync-all-remotes--glm-4.7": "ctrl+alt+h",
     //"/hard-sync-all-remotes--kimi": "ctrl+alt+shift+h",
-    "/hard-sync-all-remotes--kimi-free": "ctrl+alt+shift+h",
+    //"/hard-sync-all-remotes--kimi-free": "ctrl+alt+shift+h",
+    "/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
     //"/hard-sync-all-remotes--pickle": "alt+shift+h",
     "/hard-sync-all-remotes--g3f": "alt+shift+h",
     
