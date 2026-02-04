@@ -72,7 +72,8 @@
     "theme_list": "ctrl+t",
     "tool_details": "ctrl+t",
     "username_toggle": "alt+u",
-
+    "display_thinking": "ctrl+alt+t",
+    
     // BaseOne-only keybindings:
     "session_continue": "alt+c",
     "/fake_command": "ctrl+f",
