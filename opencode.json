@@ -49,8 +49,8 @@
   "keybinds": {
     "leader": "f1",
     "command_list": "alt+x",
-    "history_next": "ctrl+n, alt+p",
-    "history_previous": "ctrl+p, alt+n",
+    "history_next": "ctrl+n",
+    "history_previous": "ctrl+p",
     "messages_copy": "ctrl+w",
     "messages_last_user": "ctrl+alt+l",
     "messages_next": "alt+down",
@@ -72,7 +72,7 @@
     "theme_list": "ctrl+t",
     "tool_details": "ctrl+t",
     "username_toggle": "alt+u",
-    "display_thinking": "ctrl+alt+t",
+    "display_thinking": "alt+t",
     
     // BaseOne-only keybindings:
     "session_continue": "alt+c",
@@ -103,7 +103,7 @@
     //"/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+alt+shift+m",
     //"/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "alt+shift+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--g3f": "alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push": "ctrl+shift+m",
 
     "/midsentence": "ctrl+alt+x",
@@ -126,8 +126,10 @@
     "webfetch": "allow",
     "bash": {
       // "*": "ask",
-      "*": "allow",
       "git stash*": "deny",
+      "kill*": "deny",
+      "pkill*": "deny",
+      "*": "allow",
       // "awk *": "allow",
       // "bash *": "allow", // maybe not a great idea?
       // "brew *": "ask",
