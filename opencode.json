@@ -129,6 +129,7 @@
       // "*": "ask",
       "git stash*": "deny",
       "kill*": "deny",
+      "killall*": "deny",
       "pkill*": "deny",
       "*": "allow",
       // "awk *": "allow",
