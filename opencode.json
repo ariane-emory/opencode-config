@@ -128,9 +128,10 @@
     "bash": {
       // "*": "ask",
       "git stash*": "deny",
-      "kill*": "deny",
-      "killall*": "deny",
-      "pkill*": "deny",
+      "*kill*": "deny",
+      "*killall*": "deny",
+      "*pkill*": "deny",
+      "*launchctl kill&": "deny",
       "*": "allow",
       // "awk *": "allow",
       // "bash *": "allow", // maybe not a great idea?
