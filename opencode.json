@@ -120,6 +120,7 @@
     "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
+    "compress": "allow",
     "doom_loop": "deny",
     "external_directory": "allow",
     "read": "allow",
