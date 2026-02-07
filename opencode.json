@@ -12,7 +12,7 @@
   "plugin": [
     "./plugin/MUST-have-plugin",
     // "@howaboua/pickle-thinker@0.4.0",
-    // "@howaboua/opencode-usage-plugin@latest",
+    "@howaboua/opencode-usage-plugin@latest",
     // "@tarquinen/opencode-dcp@beta",
     // "./plugin/copilot-force-agent-header",
     // "opencode-antigravity-auth@latest",
