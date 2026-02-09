@@ -8,7 +8,6 @@
   "autoupdate": false,
   "lsp": false,
   "username": "Ariane Emory",
-  "theme": "my-aura",
   "plugin": [
     "./plugin/MUST-have-plugin",
     // "@howaboua/pickle-thinker@0.4.0",
