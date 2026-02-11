@@ -98,6 +98,7 @@
     "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+shift+i",
 
     "/integrate-branches--glm-4.7": "ctrl+alt+q",
+    "/integrate-branches--glm-5": "ctrl+shift+q",
     "/integrate-branches--kimi": "ctrl+alt+shift+q",
     "/integrate-branches--proxy-opus": "alt+shift+q",
 
