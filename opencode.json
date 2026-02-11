@@ -47,9 +47,9 @@
   },
   "keybinds": {
     "leader": "f1",
+    "history_next": "alt+n,ctrl+n",
+    "history_previous": "alt+pctrl+p",
     "command_list": "alt+x",
-    "history_next": "ctrl+n",
-    "history_previous": "ctrl+p",
     "messages_copy": "ctrl+w",
     "messages_last_user": "ctrl+alt+l",
     "messages_next": "alt+down",
@@ -63,7 +63,7 @@
     "session_child_cycle_reverse": "ctrl+left",
     "session_fork": "ctrl+alt+f",
     "session_list": "ctrl+s",
-    "session_new": "alt+n",
+    "session_new": "ctrl+alt+n",
     "session_parent": "ctrl+up",
     "session_rename": "ctrl+r",
     "session_timeline": "ctrl+g",
@@ -73,7 +73,7 @@
     "username_toggle": "alt+u",
     "display_thinking": "alt+t",
     
-      // BaseOne-only keybindings:
+    // BaseOne-only keybindings:
     "session_continue": "alt+c",
     "/fake_command": "ctrl+f",
     "/doom-loop": "ctrl+alt+l",
