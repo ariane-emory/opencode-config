@@ -301,7 +301,36 @@
             }
           }
         },
-
+        "glm-5": {
+          "name": "GLM-5",
+          "reasoning": true,
+          "options": {
+            "reasoningEffort": "high",
+            "reasoningSummary": "true",
+            "temperature": 1.0,
+            "top_k": 40,
+            "top_p": 0.95,
+            "maxOutputTokens": 131072,
+            "thinking": {
+              "type": "enabled"
+            }
+          }
+        },
+        "glm-5-code": {
+          "name": "GLM-5 Code",
+          "reasoning": true,
+          "options": {
+            "reasoningEffort": "high",
+            "reasoningSummary": "true",
+            "temperature": 1.0,
+            "top_k": 40,
+            "top_p": 0.95,
+            "maxOutputTokens": 131072,
+            "thinking": {
+              "type": "enabled"
+            }
+          }
+        },
       }
     },
     "google": {
