@@ -350,8 +350,8 @@
             "output": ["text"],
           },
         },
-        "claude-sonnet-4-6-thinking": {
-          "name": "Claude Sonnet 4.6 Thinking (Antigravity)",
+        "claude-sonnet-4-5-thinking": {
+          "name": "Claude Sonnet 4.5 Thinking (Antigravity)",
           "limit": {
             "context": 200000,
             "output": 64000,
