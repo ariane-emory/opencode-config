@@ -545,7 +545,7 @@
         },
         "claude-sonnet-4-5-thinking": {
           "id": "antigravity/claude-sonnet-4-5",
-          "name": "Claude Sonnet 4.6 Thinking",
+          "name": "Claude Sonnet 4.5 Thinking",
           "limit": {
             "context": 200000,
             "output": 64000
