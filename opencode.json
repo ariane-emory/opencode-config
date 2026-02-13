@@ -27,6 +27,12 @@
       "model": "zai-coding-plan/glm-5",
       "disable": true,
     },
+    "no-ext": {
+      "mode": "primary",
+      "permission": {
+        "external_directory": "deny",
+      },
+    },
   },
   "experimental": {
     "plan_mode": true,
