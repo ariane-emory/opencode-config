@@ -125,9 +125,11 @@
     "/update-dev--pickle": "alt+shift+u",
     "/update-dev--kimi": "ctrl+alt+shift+u",
 
-    "/updated-remotely--glm-4.7": "ctrl+alt+r",
+    "/updated-remotely--glm-5": "ctrl+alt+r",
     "/updated-remotely--kimi": "ctrl+alt+shift+r",
-    "/updated-remotely--pickle": "alt+shift+r",
+    "/updated-remotely--glm-4.7": "alt+shift+r",
+    //"/updated-remotely--pickle": "alt+shift+r",
+
     "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
