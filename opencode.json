@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "disabled_providers":[ "github-copilot-enterprise", "github-models"],
+  "disabled_providers":[ "github-copilot-enterprise", "github-models", "openrouter"],
   "model": "zai-coding-plan/glm-5", 
   "small_model": "llm-proxy/cli_gemini-3-flash",
   "snapshot": 1,
@@ -96,10 +96,10 @@
     //"/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
     //"/hard-sync-all-remotes--glm-4.7": "ctrl+alt+h",
     // "/hard-sync-all-remotes--glm-5": "ctrl+alt+h",
-    "/hard-sync-all-remotes--glm-4.7-flash": "ctrl+alt+h",
+    "/hard-sync-all-remotes--glm-5": "ctrl+alt+h",
     "/hard-sync-all-remotes--g3f": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--cg3f": "alt+shift+h",
-    "/hard-sync-all-remotes--glm-5": "ctrl+shift+h",
+    "/hard-sync-all-remotes--glm-4.7-flash": "ctrl+shift+h",
     
     
     "/install-latest-opencode-integration-branch--glm-4.7": "ctrl+alt+i",
