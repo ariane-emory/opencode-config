@@ -10,7 +10,6 @@
   "username": "Ariane Emory",
   "plugin": [
     // "./plugin/dont-have-plugin",
-    // "./plugin/MUST-have-plugin",
     // "./plugin/dont-have-another-plugin",
     "./plugin/MUST-have-plugin",
     "@howaboua/pickle-thinker@0.4.0",
