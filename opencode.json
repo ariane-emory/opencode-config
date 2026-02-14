@@ -17,7 +17,7 @@
   "plugin": [
     // "./plugin/dont-have-plugin",
     // "./plugin/dont-have-another-plugin",
-    "./plugin/MUST-have-plugin",
+    // "./plugin/MUST-have-plugin",
     "@howaboua/pickle-thinker@0.4.0",
     "@howaboua/opencode-usage-plugin@latest",
     // "@tarquinen/opencode-dcp@beta",
@@ -129,14 +129,14 @@
     "/todo-reminder": "ctrl+alt+t",
 
     "/update-dev--glm-4.7": "ctrl+alt+u",
-    "/update-dev--kimi": "ctrl+alt+shift+u",
-    "/update-dev--pickle": "alt+shift+u",
+    "/update-dev--pickle": "ctrl+alt+shift+u",
+    "/update-dev--kimi": "alt+shift+u",
     "/update-dev--cg3f": "ctrl+shift+u",
 
     "/updated-remotely--glm-5": "ctrl+alt+r",
     "/updated-remotely--glm-4.7": "ctrl+alt+shift+r",
     "/updated-remotely--kimi": "alt+shift+r",
-    //"/updated-remotely--pickle": "alt+shift+r",
+    "/updated-remotely--pickle": "ctrl+shift+r",
 
     "/version-reminder": "ctrl+alt+v",
   },
