@@ -117,8 +117,8 @@
     "/integrate-branches--proxy-opus": "ctrl+shift+q",
 
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-5": "ctrl+alt+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "ctrl+alt+shift+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+shift+m",
 
     //"/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7-free": "ctrl+alt+shift+m",
