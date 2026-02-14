@@ -129,8 +129,8 @@
     "/todo-reminder": "ctrl+alt+t",
 
     "/update-dev--glm-4.7": "ctrl+alt+u",
-    "/update-dev--pickle": "alt+shift+u",
     "/update-dev--kimi": "ctrl+alt+shift+u",
+    "/update-dev--pickle": "alt+shift+u",
 
     "/updated-remotely--glm-5": "ctrl+alt+r",
     "/updated-remotely--glm-4.7": "ctrl+alt+shift+r",
