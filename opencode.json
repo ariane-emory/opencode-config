@@ -106,10 +106,10 @@
     "/hard-sync-all-remotes--g3f": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--cg3f": "alt+shift+h",
     "/hard-sync-all-remotes--glm-4.7-flash": "ctrl+shift+h",
-    
-    
-    "/install-latest-opencode-integration-branch--glm-4.7": "ctrl+alt+i",
-    "/install-latest-opencode-integration-branch--pickle": "ctrl+alt+shift+i",
+
+    "/install-latest-opencode-integration-branch--glm-5": "ctrl+alt+i",
+    "/install-latest-opencode-integration-branch--glm-4.7": "ctrl+alt+shift+i",
+    "/install-latest-opencode-integration-branch--pickle": "alt+shift+i",
 
     "/integrate-branches--glm-5": "ctrl+alt+q",
     "/integrate-branches--kimi": "ctrl+alt+shift+q",
