@@ -99,9 +99,6 @@
     "/fix-unwanted": "ctrl+alt+w",
     "/haha": "ctrl+alt+j",
 
-    //"/hard-sync-all-remotes--pickle": "ctrl+alt+shift+h",
-    //"/hard-sync-all-remotes--glm-4.7": "ctrl+alt+h",
-    // "/hard-sync-all-remotes--glm-5": "ctrl+alt+h",
     "/hard-sync-all-remotes--glm-5": "ctrl+alt+h",
     "/hard-sync-all-remotes--g3f": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--cg3f": "alt+shift+h",
@@ -120,9 +117,6 @@
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+shift+m",
-
-    //"/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7-free": "ctrl+alt+shift+m",
-    //"/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "alt+shift+m",
 
     "/midsentence": "ctrl+alt+x",
     "/proceed-with-the-plan": "ctrl+alt+y",
