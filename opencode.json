@@ -140,7 +140,10 @@
   "permission": {
     "compress": "allow",
     "doom_loop": "deny",
-    "external_directory": "allow",
+    "external_directory": {
+      "*": "allow",
+      "/tmp/**": "deny"
+    },
     "read": "allow",
     // "write": { "*.md": "allow", "*.txt": "ask", "*": "deny" },
     "webfetch": "allow",
