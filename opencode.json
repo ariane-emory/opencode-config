@@ -132,6 +132,9 @@
     "/updated-remotely--kimi": "alt+shift+r",
     "/updated-remotely--pickle": "ctrl+shift+r",
 
+    "/build-baseone-local--glm-5": "ctrl+alt+b",
+    "/build-baseone-local-latest--glm-5": "ctrl+alt+shift+b",
+    
     "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
