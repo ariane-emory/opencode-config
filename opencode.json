@@ -99,10 +99,10 @@
     "/fix-unwanted": "ctrl+alt+w",
     "/haha": "ctrl+alt+j",
 
-    "/hard-sync-all-remotes--glm-5": "ctrl+alt+h",
+    "/hard-sync-all-remotes--cg3f": "ctrl+alt+h",
     "/hard-sync-all-remotes--g3f": "ctrl+alt+shift+h",
-    "/hard-sync-all-remotes--cg3f": "alt+shift+h",
-    "/hard-sync-all-remotes--glm-4.7-flash": "ctrl+shift+h",
+    "/hard-sync-all-remotes--glm-4.7-flash": "alt+shift+h",
+    "/hard-sync-all-remotes--glm-4.7": "ctrl+shift+h",
 
     "/install-latest-opencode-integration-branch--glm-5": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--glm-4.7": "ctrl+alt+shift+i",
