@@ -13,5 +13,6 @@ logs/*
 antigravity-accounts.json
 .audio-lock
 supplemental/
+plugin/
 opencode-source
 opencode.jsonc
