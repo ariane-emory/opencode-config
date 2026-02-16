@@ -65,8 +65,8 @@
     "history_next": "ctrl+n",
     "history_previous": "ctrl+p",
     
-    "messages_copy": "alt+w",
-    "messages_last_user": "alt+l",
+    "messages_copy": "ctrl+w",
+    "messages_last_user": "ctrl+l",
     "messages_page_up": "pageup",
     "messages_page_down": "pagedown",
     "messages_previous": "alt+n",
