@@ -64,30 +64,25 @@
     "command_list": "alt+x",
     "history_next": "ctrl+n",
     "history_previous": "ctrl+p",
-    
     "messages_copy": "ctrl+w",
     "messages_last_user": "ctrl+l",
     "messages_page_up": "pageup",
     "messages_page_down": "pagedown",
     "messages_previous": "none",
     "messages_next": "none",
-    
     "model_cycle_favorite": "ctrl+k",
     "model_cycle_favorite_reverse": "ctrl+j",
     "model_cycle_recent": "alt+k",
     "model_cycle_recent_reverse": "alt+j",
     "model_list": "alt+m",
-
     "session_child_cycle": "ctrl+right",
     "session_child_cycle_reverse": "ctrl+left",
     "session_parent": "ctrl+up",
-
     "session_fork": "ctrl+f",
     "session_list": "ctrl+s",
     "session_new": "alt+n",
     "session_rename": "ctrl+r",
     "session_timeline": "ctrl+g",
-
     "sidebar_toggle": "ctrl+b",
     "theme_list": "ctrl+alt+shift+t",
     "tool_details": "ctrl+t",
@@ -96,7 +91,6 @@
     
     // BaseOne-only keybindings:
     "session_continue": "alt+c",
-    
     "/fake_command": "alt+f",
     "/arg-test": "ctrl+alt+z",
     "/carry-on": "alt+shift+c",
@@ -106,47 +100,38 @@
     "/midsentence": "ctrl+alt+x",
     "/proceed-with-the-plan": "ctrl+alt+y",
     "/todo-reminder": "ctrl+alt+t",
-    
     "/commit-and-push--glm-5": "ctrl+alt+p",
     "/commit-and-push--glm-4.7": "ctrl+alt+shiftp",
     "/commit-and-push--kimi": "alt+shift+p",
     "/commit-and-push--pickle": "ctrl+shift+p",
-
     "/hard-sync-all-remotes--cg3f": "ctrl+alt+h",
     "/hard-sync-all-remotes--g3f": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--glm-4.7-flash": "alt+shift+h",
     "/hard-sync-all-remotes--glm-4.7": "ctrl+shift+h",
-
     "/install-latest-opencode-integration-branch--glm-5": "ctrl+alt+i",
     "/install-latest-opencode-integration-branch--glm-4.7": "ctrl+alt+shift+i",
     "/install-latest-opencode-integration-branch--kimi": "alt+shift+i",
     "/install-latest-opencode-integration-branch--pickle": "ctrl+shift+i",
-
     "/integrate-branches--glm-5": "ctrl+alt+q",
     "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
     "/integrate-branches--kimi": "alt+shift+q",
     //"/integrate-branches--proxy-opus": "ctrl+shift+q",
-
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-5": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--pickle": "ctrl+shift+m",
-
     "/update-dev--glm-4.7": "ctrl+alt+u",
     "/update-dev--pickle": "ctrl+alt+shift+u",
     "/update-dev--kimi": "alt+shift+u",
     "/update-dev--cg3f": "ctrl+shift+u",
-
     "/updated-remotely--glm-5": "ctrl+alt+r",
     "/updated-remotely--glm-4.7": "ctrl+alt+shift+r",
     "/updated-remotely--kimi": "alt+shift+r",
     "/updated-remotely--pickle": "ctrl+shift+r",
-
     "/build-baseone-local--glm-5": "ctrl+alt+b",
     "/build-baseone-local--glm-4.7": "ctrl+alt+shift+b",
     "/build-baseone-local--kimi": "alt+shift+b",
     "/build-baseone-latest--glm-5": "ctrl+shift+b",
-    
     "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
