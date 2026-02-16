@@ -1,3 +1,0 @@
-[submodule "supplemental"]
-	path = supplemental
-	url = git@github.com:ariane-emory/opencode-config-supplemental.git
