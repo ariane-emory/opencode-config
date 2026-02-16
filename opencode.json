@@ -52,7 +52,7 @@
   "tui": {
     "sidebar_overlay": false,
     "messages_limit": 10000, // "none",
-    "session_list_limit": 1000, // "none",
+    "session_list_limit": "none",
     "diff_style": "stacked", // obsolete
     "recent_models_count": 10,
     "display_message_tps": true,
