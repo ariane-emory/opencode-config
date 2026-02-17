@@ -537,54 +537,45 @@
         "timeout": 300000
       },
       "models": {
-        "claude-opus-4-6-thinking": {
-          "id": "antigravity/claude-opus-4-6",
-          "name": "Claude Opus 4.6 Thinking",
-          "limit": {
-            "context": 200000,
-            "output": 64000
-          },
-          "reasoning": true,
-          "options": {
-            "reasoningEffort": "high"
-          }
-        },
-        "claude-opus-4-6": {
-          "id": "antigravity/claude-opus-4-6",
-          "name": "Claude Opus 4.6",
-          "limit": {
-            "context": 200000,
-            "output": 64000
-          },
-          "reasoning": false,
-          "options": {
-            "reasoningEffort": "high"
-          }
-        },
-        "claude-sonnet-4-5-thinking": {
-          "id": "antigravity/claude-sonnet-4-5",
-          "name": "Claude Sonnet 4.5 Thinking",
-          "limit": {
-            "context": 200000,
-            "output": 64000
-          },
-          "reasoning": true,
-          "options": {
-            "reasoningEffort": "high"
-          }
-        },
-        "claude-sonnet-4-5": {
-          "id": "antigravity/claude-sonnet-4-5",
-          "name": "Claude Sonnet 4.5",
-          "limit": {
-            "context": 200000,
-            "output": 64000
-          },
-          "reasoning": false
-        },
-        // "claude-haiku-4-5": {
-        //   "id": "antigravity/claude-haiku-4-5",
-        //   "name": "Claude Haiku 4.5",
+        // "claude-opus-4-6-thinking": {
+        //   "id": "antigravity/claude-opus-4-6",
+        //   "name": "Claude Opus 4.6 Thinking",
+        //   "limit": {
+        //     "context": 200000,
+        //     "output": 64000
+        //   },
+        //   "reasoning": true,
+        //   "options": {
+        //     "reasoningEffort": "high"
+        //   }
+        // },
+        // "claude-opus-4-6": {
+        //   "id": "antigravity/claude-opus-4-6",
+        //   "name": "Claude Opus 4.6",
+        //   "limit": {
+        //     "context": 200000,
+        //     "output": 64000
+        //   },
+        //   "reasoning": false,
+        //   "options": {
+        //     "reasoningEffort": "high"
+        //   }
+        // },
+        // "claude-sonnet-4-5-thinking": {
+        //   "id": "antigravity/claude-sonnet-4-5",
+        //   "name": "Claude Sonnet 4.5 Thinking",
+        //   "limit": {
+        //     "context": 200000,
+        //     "output": 64000
+        //   },
+        //   "reasoning": true,
+        //   "options": {
+        //     "reasoningEffort": "high"
+        //   }
+        // },
+        // "claude-sonnet-4-5": {
+        //   "id": "antigravity/claude-sonnet-4-5",
+        //   "name": "Claude Sonnet 4.5",
         //   "limit": {
         //     "context": 200000,
         //     "output": 64000
