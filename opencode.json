@@ -21,7 +21,7 @@
     "./plugin/MUST-have-plugin",
     "@howaboua/pickle-thinker@latest",
     "@howaboua/opencode-usage-plugin@latest",
-    "@tarquinen/opencode-dcp@latest",
+    // "@tarquinen/opencode-dcp@latest",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
     // "@franlol/opencode-md-table-formatter@0.0.3",
