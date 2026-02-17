@@ -116,6 +116,7 @@
     "/integrate-branches--glm-4.7": "ctrl+alt+shift+q",
     "/integrate-branches--kimi": "alt+shift+q",
     //integrate-branches--proxy-opus": "ctrl+shift+q",
+
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-5": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
