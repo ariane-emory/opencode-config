@@ -17,10 +17,10 @@
   "plugin": [
     // "./plugin/dont-have-plugin",
     // "./plugin/dont-have-another-plugin",
-    "./plugin/copilot-force-agent-header",
+    // "./plugin/copilot-force-agent-header",
     "./plugin/MUST-have-plugin",
-    "@howaboua/pickle-thinker@latest",
-    "@howaboua/opencode-usage-plugin@latest",
+    // "@howaboua/pickle-thinker@latest",
+    // "@howaboua/opencode-usage-plugin@latest",
     // "@tarquinen/opencode-dcp@latest",
     // "opencode-antigravity-auth@latest",
     // "opencode-antigravity-quota@latest",
@@ -131,10 +131,12 @@
     "/updated-remotely--glm-4.7": "ctrl+alt+shift+r",
     "/updated-remotely--kimi": "alt+shift+r",
     "/updated-remotely--pickle": "ctrl+shift+r",
+
     "/build-baseone-local--glm-5": "ctrl+alt+b",
     "/build-baseone-local--glm-4.7": "ctrl+alt+shift+b",
     "/build-baseone-local--kimi": "alt+shift+b",
     "/build-baseone-latest--glm-5": "ctrl+shift+b",
+
     "/version-reminder": "ctrl+alt+v",
   },
   "permission": {
