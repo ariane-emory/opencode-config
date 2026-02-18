@@ -122,10 +122,10 @@
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi-free": "ctrl+shift+m",
 
-    "/update-dev--glm-4.7": "ctrl+alt+u",
-    "/update-dev--pickle": "ctrl+alt+shift+u",
-    "/update-dev--cg3f": "alt+shift+u",
-    "/update-dev--ag3f": "ctrl+shift+u",
+    "/update-dev--cg3f":    "ctrl+alt+u",        
+    "/update-dev--ag3f":    "ctrl+alt+shift+u",  
+    "/update-dev--glm-4.7": "alt+shift+u",       
+    "/update-dev--pickle":  "ctrl+u",            
 
     "/updated-remotely--glm-5": "ctrl+alt+r",
     "/updated-remotely--glm-4.7": "ctrl+alt+shift+r",
