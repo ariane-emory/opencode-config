@@ -120,7 +120,7 @@
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-5": "ctrl+alt+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--glm-4.7": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-resolve-conflicts-and-push--kimi": "alt+shift+m",
-    "/merge-dev-into-branch-resolve-conflicts-and-push--kimi-free": "ctrl+shift+m",
+    //"/merge-dev-into-branch-resolve-conflicts-and-push--kimi-free": "ctrl+shift+m",
 
     "/update-dev--cg3f":    "ctrl+alt+u",        
     "/update-dev--ag3f":    "ctrl+alt+shift+u",  
