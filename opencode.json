@@ -84,7 +84,7 @@
     "session_rename": "ctrl+r",
     "session_timeline": "ctrl+g",
     "sidebar_toggle": "ctrl+b",
-    "theme_list": "ctrl+alt+shift+t",
+    // "theme_list": "ctrl+alt+shift+t",
     "tool_details": "ctrl+t",
     "display_thinking": "alt+t",
     "username_toggle": "alt+u",
