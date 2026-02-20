@@ -91,6 +91,7 @@
     
     // BaseOne-only keybindings:
     "session_continue": "alt+c",
+    "/note-dir": "ctrl+alt+d",
     "/fake_command": "alt+f",
     "/arg-test": "ctrl+alt+z",
     "/carry-on": "alt+shift+c",
