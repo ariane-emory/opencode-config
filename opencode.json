@@ -13,7 +13,16 @@
   "formatter": false,
   "autoupdate": false,
   "lsp": false,
+  "share": "disabled",
   "username": "Ariane Emory",
+  "experimental": {
+    "openTelemetry": false,
+    "plan_mode": true,
+    "context_compaction_threshold": 50,
+    "disable_paste_summary": true,
+    "skip_models_refresh": true,
+    "cache_command_markdown_files": false,
+  },
   "plugin": [
     // "./plugin/dont-have-plugin",
     // "./plugin/dont-have-another-plugin",
@@ -26,6 +35,10 @@
     // "opencode-antigravity-quota@latest",
     // "@franlol/opencode-md-table-formatter@0.0.3",
   ],
+  "compaction": {
+    "auto": true,
+    "prune": true
+  },
   "agent": {
     "explore": {
       "model": "llm-proxy/cli_gemini-3-flash",
@@ -41,13 +54,6 @@
         "external_directory": "deny",
       },
     },
-  },
-  "experimental": {
-    "plan_mode": true,
-    "context_compaction_threshold": 50,
-    "disable_paste_summary": true,
-    "skip_models_refresh": true,
-    "cache_command_markdown_files": false,
   },
   "tui": {
     "sidebar_overlay": false,
