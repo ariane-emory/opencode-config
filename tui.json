@@ -239,4 +239,7 @@
     "/todo-reminder": "alt+shift+t",
   },
   "diff_style": "stacked",
+  "plugin": [
+    "@tarquinen/opencode-dcp@latest"
+  ],
 }
