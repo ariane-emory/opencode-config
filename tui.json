@@ -1,0 +1,242 @@
+{
+  "$schema": "https://opencode.ai/tui.json",
+  "keybinds": {
+    "leader": "ctrl+x",
+    "app_exit": "ctrl+c",
+    "app_debug": "none", // def
+    "app_console": "none", // def
+    "app_heap_snapshot": "none", // def
+    "app_toggle_animations": "none", // def
+    "app_toggle_file_context": "none", // def
+    "app_toggle_diffwrap": "none", // def
+    "app_toggle_paste_summary": "none", // def
+    "app_toggle_session_directory_filter": "none", // def
+    "command_list": "alt+x",
+    "help_show": "none", // def
+    "docs_open": "none", // def
+
+    "editor_open": "none",
+    "theme_list": "alt+t",
+    "theme_switch_mode": "none", // def
+    "theme_mode_lock": "none", // def
+    "sidebar_toggle": "ctrl+b",
+    "scrollbar_toggle": "none", // def
+    "status_view": "none",
+
+    "session_export": "none",
+    "session_copy": "none", // def
+    "session_new": "ctrl+n",
+    "session_list": "ctrl+s",
+    "session_timeline": "ctrl+g",
+    "session_fork": "ctrl+f",
+    "session_rename": "ctrl+r",
+    "session_delete": "ctrl+d", // def
+    "session_share": "none", // def
+    "session_unshare": "none", // def
+    "session_interrupt": "escape", // def
+    "session_compact": "ctrl+alt+z", 
+    "session_toggle_timestamps": "none", // def
+    "session_toggle_generic_tool_output": "none", // def
+    "session_child_first": "none", 
+    "session_child_cycle": "ctrl+right",
+    "session_child_cycle_reverse": "ctrl+left",
+    "session_parent": "none",
+
+    "stash_delete": "none",
+    "model_provider_list": "none",
+    "model_favorite_toggle": "ctrl+f",
+    "model_list": "alt+m",
+    "model_cycle_recent": "none",
+    "model_cycle_recent_reverse": "none",
+    "model_cycle_favorite": "alt+j,ctrl+j",
+    "model_cycle_favorite_reverse": "alt+k,ctrl+k",
+    "mcp_list": "none", // def
+    "provider_connect": "none", // def
+    "console_org_switch": "none", // def
+    "agent_list": "none",
+    "agent_cycle": "tab", // def
+    "agent_cycle_reverse": "ctrl+tab",
+    "variant_cycle": "ctrl+v", 
+    "variant_list": "ctrl+alt+v",
+
+    "input_buffer_home": "alt+home", 
+    "input_buffer_end": "alt+end", 
+    "input_select_buffer_home": "shift+home", 
+    "input_select_buffer_end": "shift+end",
+    "messages_first": "home", 
+    "messages_last": "end",
+
+    "messages_page_up": "pageup",
+    "messages_page_down": "pagedown",
+    "messages_line_up": "alt+up",
+    "messages_line_down": "alt+down",
+    "messages_half_page_up": "none", 
+    "messages_half_page_down": "none", 
+    "messages_next": "ctrl+alt+down",
+    "messages_previous": "ctrl+alt+up",
+    "messages_last_user": "ctrl+l",
+    "messages_copy": "alt+w",
+    "messages_undo": "ctrl+z",
+    "messages_redo": "none",
+    "messages_toggle_conceal": "none", // def
+    // "tool_details": "ctrl+alt+t",
+    "display_thinking": "ctrl+t",
+
+    "prompt_submit": "none", // def
+    "prompt_editor_context_clear": "none", // def
+    "prompt_skills": "none", // def
+    "prompt_stash": "none", // def
+    "prompt_stash_pop": "none", // def
+    "prompt_stash_list": "none", // def
+    "workspace_set": "none", // def
+
+    "input_clear": "ctrl+c", // def
+    // "input_paste": {
+    //   "key": "none", 
+    //   "preventDefault": false
+    // },
+    "input_paste": "none",
+    "input_newline": "return",
+    "input_submit": "shift+return,ctrl+return,alt+return",
+    "input_move_left": "left", 
+    "input_move_right": "right",
+    "input_move_up": "up", // def
+    "input_move_down": "down", // def
+    "input_select_left": "shift+left", // def
+    "input_select_right": "shift+right", // def
+    "input_select_up": "shift+up", // def
+    "input_select_down": "shift+down", // def
+    "input_line_home": "ctrl+a", // def
+    "input_line_end": "ctrl+e", // def
+    "input_select_line_home": "ctrl+shift+a", // def
+    "input_select_line_end": "ctrl+shift+e", // def
+    "input_visual_line_home": "alt+a", // def
+    "input_visual_line_end": "alt+e", // def
+    "input_select_visual_line_home": "alt+shift+a", // def
+    "input_select_visual_line_end": "alt+shift+e", // def
+    "input_delete_line": "ctrl+shift+d", // def
+    "input_delete_to_line_end": "ctrl+k", // def
+    "input_delete_to_line_start": "ctrl+u", // def
+    "input_backspace": "backspace,shift+backspace", // def
+    "input_delete": "ctrl+d,delete,shift+delete", // def
+    "input_undo": "ctrl+-,super+z", // def
+    "input_redo": "ctrl+.,super+shift+z", // def
+    "input_word_forward": "alt+right,ctrl+right",
+    "input_word_backward": "alt+left,ctrl+left", 
+    "input_select_word_forward": "alt+shift+f,alt+shift+right", // def
+    "input_select_word_backward": "alt+shift+b,alt+shift+left", // def
+    "input_delete_word_forward": "alt+d,alt+delete,ctrl+delete", // def
+    "input_delete_word_backward": "ctrl+w,ctrl+backspace,alt+backspace", // def
+    "input_select_all": "super+a", // def
+    "history_previous": "alt+p",
+    "history_next": "alt+n",
+
+    "dialog.select.prev": "up,ctrl+p", // def
+    "dialog.select.next": "down,ctrl+n", // def
+    "dialog.select.page_up": "pageup", // def
+    "dialog.select.page_down": "pagedown", // def
+    "dialog.select.home": "home", // def
+    "dialog.select.end": "end", // def
+    "dialog.select.submit": "return", // def
+    "dialog.mcp.toggle": "space", // def
+    "prompt.autocomplete.prev": "up,ctrl+p", // def
+    "prompt.autocomplete.next": "down,ctrl+n", // def
+    "prompt.autocomplete.hide": "escape", // def
+    "prompt.autocomplete.select": "return", // def
+    "prompt.autocomplete.complete": "tab", // def
+    "permission.prompt.fullscreen": "ctrl+f", // def
+    "plugins.toggle": "space", // def
+    "dialog.plugins.install": "shift+i", // def
+
+    "terminal_suspend": "none", 
+    "terminal_title_toggle": "none", // def
+    "tips_toggle": "<leader>h", // def
+    "plugin_manager": "none", // def
+    "plugin_install": "none", // def
+
+    "which_key_toggle": "ctrl+alt+k", // def
+    "which_key_layout_toggle": "ctrl+alt+shift+k", // def
+    "which_key_pending_toggle": "ctrl+alt+shift+p", // def
+    "which_key_group_previous": "ctrl+alt+left,ctrl+alt+[", // def
+    "which_key_group_next": "ctrl+alt+right,ctrl+alt+]", // def
+    "which_key_scroll_up": "ctrl+alt+up,ctrl+alt+p", // def
+    "which_key_scroll_down": "ctrl+alt+down,ctrl+alt+n", // def
+    "which_key_page_up": "ctrl+alt+pageup", // def
+    "which_key_page_down": "ctrl+alt+pagedown", // def
+    "which_key_home": "ctrl+alt+home", // def
+    "which_key_end": "ctrl+alt+end", // def
+
+    "session_child_toggle": "alt+h",
+    "session_continue": "ctrl+space",
+    
+    // "session_child_first": "alt+h",
+    // "session_parent": "ctrl+h",
+
+    // commit and push:
+    "/commit-and-push--glm-5.2": "ctrl+alt+p",
+    "/commit-and-push--kimi-k2p6": "ctrl+alt+shift+p",
+    "/commit-and-push--kimi-oauth": "alt+shift+p",
+    "/commit-and-push--glm-5-turbo": "ctrl+shift+p",
+
+    // hard sync:
+    "/hard-sync-all-remotes--glm-5.2": "ctrl+alt+h",
+    "/hard-sync-all-remotes--kimi-k2p6": "ctrl+alt+shift+h",
+    "/hard-sync-all-remotes--kimi-oauth": "alt+shift+h",
+    "/hard-sync-all-remotes--cg3f": "ctrl+shift+h",
+    "/hard-sync-all-remotes--cr-gpt-5.5": "<leader>ctrl+alt+h",
+
+    // integrate:
+    "/integrate-branches--glm-5.2": "ctrl+alt+q",
+    "/integrate-branches--kimi-k2p6": "ctrl+alt+shift+q",
+    "/integrate-branches--kimi-oauth": "alt+shift+q",
+    "/integrate-branches--test": "ctrl+shift+q",
+    //"/integrate-branches--cr-gpt-5.4": "ctrl+shift+q",
+
+    "/haha": "ctrl+alt+j",
+        
+    // merge dev into branch:
+    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--glm-5.2": "ctrl+alt+m",
+    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-k2p6": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-oauth": "alt+shift+m",
+    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--test": "ctrl+shift+m",
+    //"/merge-dev-into-branch-by-prresolve-conflicts-and-push--cr-gpt-5.5": "<leader>ctrl+alt+m",
+
+    // merge upstream dev into branch:
+    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-oauth": "<leader>ctrl+alt+m",
+    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-k2p6": "<leader>ctrl+alt+shift+m",
+    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--glm-5.2": "<leader>alt+shift+m",
+    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--cr-gpt-5.4": "<leader>ctrl+shift+m",
+    
+    // update dev:
+    "/update-dev--glm-5.2": "ctrl+alt+u",
+    "/update-dev--kimi-k2p6": "ctrl+alt+shift+u",
+    "/update-dev--kimi-oauth": "alt+shift+u",
+    "/update-dev--cr-gpt-5.4": "ctrl+shift+u",
+
+    // updated remotely:
+    "/updated-remotely--glm-5.2": "ctrl+shift+r",
+    "/updated-remotely--kimi-k2p6": "ctrl+alt+shift+b",
+    "/updated-remotely--kimi-oauth": "alt+shift+r",
+    "/updated-remotely--cr-gpt-5.4": "ctrl+shift+r",
+    
+    // build local baseone:
+    "/build-baseone-local--glm-5.2": "ctrl+shift+b",
+    "/build-baseone-local--kimi-k2p6": "ctrl+alt+shift+b",
+    "/build-baseone-local--kimi-oauth": "alt+shift+b",
+    "/build-baseone-local--cr-gpt-5.4": "ctrl+shift+b",
+
+    // misc:
+    "/carry-on": "alt+shift+c",
+    // "/complete-entire-branch-list": "ctrl+alt+e",
+    "/doom-loop": "ctrl+alt+l",
+    "/fake_command": "alt+f",
+    "/gco": "ctrl+alt+g",
+    "/gcod": "ctrl+alt+d",
+    // "/haha": "ctrl+alt+j",
+    "/individual-todos": "ctrl+alt+i",
+    "/note-dir": "ctrl+alt+n",
+    "/regression": "ctrl+alt+z", 
+    "/todo-reminder": "alt+shift+t",
+  },
+  "diff_style": "stacked",
+}

@@ -1,0 +1,1 @@
+./supplemental/global-AGENTS.md
