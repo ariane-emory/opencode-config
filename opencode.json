@@ -32,9 +32,9 @@
     "session_list_limit": "none",
   },
   "plugin": [
-    "@ariane-emory/must-have-plugin",
-    "@tarquinen/opencode-dcp",
-    "opencode-kimi-full",
+    "@ariane-emory/must-have-plugin@latest",
+    "@tarquinen/opencode-dcp@latest",
+    "opencode-kimi-full@latest",
   ],
   "compaction": {
     "auto": true,

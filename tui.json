@@ -240,6 +240,6 @@
   },
   "diff_style": "stacked",
   "plugin": [
-    "@tarquinen/opencode-dcp"
+    "@tarquinen/opencode-dcp@latest"
   ],
 }
