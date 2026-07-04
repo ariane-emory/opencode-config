@@ -13,7 +13,7 @@
   "model": "zai-coding-plan/glm-5.1k",
   // "model": "kimi-for-coding-oauth/kimi-for-coding",
   "small_model": "kimi-for-coding-oauth/kimi-for-coding",
-  "snapshot": 1y,
+  "snapshot": 1,
   "formatter": false,
   "autoupdate": false,
   "lsp": false,
