@@ -10,7 +10,7 @@
     "mistral",
   ],
   "default_agent": "plan",
-  "model": "zai-coding-plan/glm-5.1k",
+  "model": "zai-coding-plan/glm-5.2",
   // "model": "kimi-for-coding-oauth/kimi-for-coding",
   "small_model": "kimi-for-coding-oauth/kimi-for-coding",
   "snapshot": 1,
