@@ -174,20 +174,20 @@
 
     // commit and push:
     "/commit-and-push--glm-5.2": "ctrl+alt+p",
-    "/commit-and-push--kimi-k2p6": "ctrl+alt+shift+p",
+    "/commit-and-push--k3": "ctrl+alt+shift+p",
     "/commit-and-push--kimi-oauth": "alt+shift+p",
     "/commit-and-push--glm-5-turbo": "ctrl+shift+p",
 
     // hard sync:
     "/hard-sync-all-remotes--glm-5.2": "ctrl+alt+h",
-    "/hard-sync-all-remotes--kimi-k2p6": "ctrl+alt+shift+h",
+    "/hard-sync-all-remotes--k3": "ctrl+alt+shift+h",
     "/hard-sync-all-remotes--kimi-oauth": "alt+shift+h",
     "/hard-sync-all-remotes--cg3f": "ctrl+shift+h",
     "/hard-sync-all-remotes--cr-gpt-5.5": "<leader>ctrl+alt+h",
 
     // integrate:
     "/integrate-branches--glm-5.2": "ctrl+alt+q",
-    "/integrate-branches--kimi-k2p6": "ctrl+alt+shift+q",
+    "/integrate-branches--k3": "ctrl+alt+shift+q",
     "/integrate-branches--kimi-oauth": "alt+shift+q",
     "/integrate-branches--test": "ctrl+shift+q",
     //"/integrate-branches--cr-gpt-5.4": "ctrl+shift+q",
@@ -196,32 +196,32 @@
         
     // merge dev into branch:
     "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--glm-5.2": "ctrl+alt+m",
-    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-k2p6": "ctrl+alt+shift+m",
+    "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--k3": "ctrl+alt+shift+m",
     "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-oauth": "alt+shift+m",
     "/merge-dev-into-branch-by-pr-resolve-conflicts-and-push--test": "ctrl+shift+m",
     //"/merge-dev-into-branch-by-prresolve-conflicts-and-push--cr-gpt-5.5": "<leader>ctrl+alt+m",
 
     // merge upstream dev into branch:
     // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-oauth": "<leader>ctrl+alt+m",
-    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--kimi-k2p6": "<leader>ctrl+alt+shift+m",
+    // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--k3": "<leader>ctrl+alt+shift+m",
     // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--glm-5.2": "<leader>alt+shift+m",
     // "/merge-upstream-dev-into-branch-by-pr-resolve-conflicts-and-push--cr-gpt-5.4": "<leader>ctrl+shift+m",
     
     // update dev:
     "/update-dev--glm-5.2": "ctrl+alt+u",
-    "/update-dev--kimi-k2p6": "ctrl+alt+shift+u",
+    "/update-dev--k3": "ctrl+alt+shift+u",
     "/update-dev--kimi-oauth": "alt+shift+u",
     "/update-dev--cr-gpt-5.4": "ctrl+shift+u",
 
     // updated remotely:
     "/updated-remotely--glm-5.2": "ctrl+shift+r",
-    "/updated-remotely--kimi-k2p6": "ctrl+alt+shift+b",
+    "/updated-remotely--k3": "ctrl+alt+shift+b",
     "/updated-remotely--kimi-oauth": "alt+shift+r",
     "/updated-remotely--cr-gpt-5.4": "ctrl+shift+r",
     
     // build local baseone:
     "/build-baseone-local--glm-5.2": "ctrl+shift+b",
-    "/build-baseone-local--kimi-k2p6": "ctrl+alt+shift+b",
+    "/build-baseone-local--k3": "ctrl+alt+shift+b",
     "/build-baseone-local--kimi-oauth": "alt+shift+b",
     "/build-baseone-local--cr-gpt-5.4": "ctrl+shift+b",
 
