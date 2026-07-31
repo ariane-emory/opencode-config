@@ -1,6 +1,6 @@
 ## My (personal) opencode config
 
-This content goes at `~/.config/opencode`. The rest of the config is in https://github.com/ariane-emory/opencode-config/.
+This content goes at `~/.config/opencode`. The rest of the config is in https://github.com/ariane-emory/opencode-config-supplemental/.
 
 ## Prompt Enhancer
 
