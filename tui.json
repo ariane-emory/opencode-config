@@ -214,13 +214,13 @@
     "/update-dev--cr-gpt-5.4": "ctrl+shift+u",
 
     // updated remotely:
-    "/updated-remotely--glm-5.2": "ctrl+shift+r",
+    "/updated-remotely--glm-5.2": "ctrl+alt+r",
     "/updated-remotely--k3": "ctrl+alt+shift+b",
     "/updated-remotely--kimi-oauth": "alt+shift+r",
     "/updated-remotely--cr-gpt-5.4": "ctrl+shift+r",
     
     // build local baseone:
-    "/build-baseone-local--glm-5.2": "ctrl+shift+b",
+    "/build-baseone-local--glm-5.2": "ctrl+alt+b",
     "/build-baseone-local--k3": "ctrl+alt+shift+b",
     "/build-baseone-local--kimi-oauth": "alt+shift+b",
     "/build-baseone-local--cr-gpt-5.4": "ctrl+shift+b",
