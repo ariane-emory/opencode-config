@@ -1,6 +1,8 @@
+
+
 ## My (personal) opencode config
 
-This content goes at `~/.config/opencode`. The rest of the config is in https://github.com/ariane-emory/opencode-config-supplemental/.
+This content goes at `~/.config/opencode`. This repository includes `tui.json` (configured with the `@tarquinen/opencode-dcp@latest` plugin) and the prompt enhancer source code. The rest of the config is in https://github.com/ariane-emory/opencode-config-supplemental/.
 
 ## Prompt Enhancer
 
